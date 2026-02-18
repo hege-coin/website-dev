@@ -183,5 +183,5 @@ function setNftFloorPrice(target_el) {
 
 document.addEventListener('DOMContentLoaded', function () {
   const target = document.getElementById('hegends-floor-price');
-  // setNftFloorPrice(target);
+  setNftFloorPrice(target);
 });
