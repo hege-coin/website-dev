@@ -44,6 +44,15 @@ function scrollSlider(id, direction) {
   e.scrollLeft += w * direction;
 }
 
+function toggleBuyDexCex(id, c) {
+  var e = document.getElementById(id)
+  if (!c) {
+    c = e.className == 'dex' ? 'cex' : 'dex';
+  }
+  e.className = c;
+  return false;
+}
+
 //
 // TELEGRAM CHAT BOX
 //
