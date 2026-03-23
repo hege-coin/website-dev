@@ -6,10 +6,31 @@
     <description>Read the latest about $HEGE here!</description>
     <generator>Hege</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dev.hegecoin.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shill With HEGE: Come Tell Us What You&#39;re Building!</title>
+      <title>How We Rebuilt the Hege Website to Get a Perfect PageSpeed Score. Part 3: Optimize Images</title>
+      <link>https://dev.hegecoin.com/blog/how-we-rebuilt-the-hege-website-to-get-a-perfect-pagespeed-score-pt-3/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://dev.hegecoin.com/blog/how-we-rebuilt-the-hege-website-to-get-a-perfect-pagespeed-score-pt-3/</guid>
+      <description>With fonts down, we turn our performance hungry snouts to images, and sniff out how to use AVIF, MP4, lazy loading and more to reach the promised land of PageSpeed perfection.&#xA;</description>
+    </item>
+    <item>
+      <title>How We Rebuilt the Hege Website to Get a Perfect PageSpeed Score. Part 2: Optimize Fonts</title>
+      <link>https://dev.hegecoin.com/blog/how-we-rebuilt-the-hege-website-to-get-a-perfect-pagespeed-score-pt-2/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://dev.hegecoin.com/blog/how-we-rebuilt-the-hege-website-to-get-a-perfect-pagespeed-score-pt-2/</guid>
+      <description>Continuing our journey to PageSpeed Paradise, this week we turn to fonts, showing how compression and heavy subsetting brought 3 MB of unoptimized font files down to a minimal 18 kB.&#xA;</description>
+    </item>
+    <item>
+      <title>How We Rebuilt the Hege Website to Get a Perfect PageSpeed Score. Part 1: Big Picture</title>
+      <link>https://dev.hegecoin.com/blog/how-we-rebuilt-the-hege-website-to-get-a-perfect-pagespeed-score-pt-1/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://dev.hegecoin.com/blog/how-we-rebuilt-the-hege-website-to-get-a-perfect-pagespeed-score-pt-1/</guid>
+      <description>Nailing the PageSpeed Insights performance metric takes a bit of work, but it&amp;rsquo;s totally possible. Even for a slightly traumatized webmonkey with a penchant for furry ears.&#xA;</description>
+    </item>
+    <item>
+      <title>New HEGE X Spaces: Come Tell Us What You&#39;re Building!</title>
       <link>https://dev.hegecoin.com/blog/announcing-shill-with-hege/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://dev.hegecoin.com/blog/announcing-shill-with-hege/</guid>
