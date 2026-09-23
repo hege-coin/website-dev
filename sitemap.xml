@@ -2,14 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dev.hegecoin.com/blog/how-we-rebuilt-the-hege-website-to-get-a-perfect-pagespeed-score-pt-3/</loc>
+    <loc>https://dev.hegecoin.com/hegepedia/hege/</loc>
+    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/story/level-0/chapter-1/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/hegepedia/hegena/</loc>
+    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/story/level-0/chapter-2/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/hegepedia/hendrix/</loc>
+    <lastmod>2026-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/story/level-0/chapter-3/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/hegepedia/helena/</loc>
+    <lastmod>2026-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/story/level-0/chapter-4/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/story/level-0/chapter-5/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/categories/characters/</loc>
+    <lastmod>2026-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/hegepedia/all-pages/</loc>
+    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/hegepedia/characters/</loc>
+    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/hegepedia/hege-in-vegas-2025/</loc>
+    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/hegepedia/irl-events/</loc>
+    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/categories/irl-events/</loc>
+    <lastmod>2026-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/hegepedia/</loc>
+    <lastmod>2026-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/hegepedia/welcome/</loc>
+    <lastmod>2026-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/blog/lets-build-a-buy-bot/</loc>
+    <lastmod>2026-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/blog/be-the-person-who-takes-initiative-and-your-world-will-forever-change/</loc>
+    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/blog/how-to-build-a-ridiculously-fast-website/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/blog/how-to-build-a-ridiculously-fast-website-pt-6/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/blog/how-to-build-a-ridiculously-fast-website-pt-5/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/blog/how-to-build-a-ridiculously-fast-website-pt-4/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/blog/hege-buybot-reporting-for-duty/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dev.hegecoin.com/blog/how-to-build-a-ridiculously-fast-website-pt-3/</loc>
     <lastmod>2026-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dev.hegecoin.com/blog/how-we-rebuilt-the-hege-website-to-get-a-perfect-pagespeed-score-pt-2/</loc>
+    <loc>https://dev.hegecoin.com/blog/how-to-build-a-ridiculously-fast-website-pt-2/</loc>
     <lastmod>2026-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dev.hegecoin.com/blog/how-we-rebuilt-the-hege-website-to-get-a-perfect-pagespeed-score-pt-1/</loc>
-    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+    <loc>https://dev.hegecoin.com/blog/how-to-build-a-ridiculously-fast-website-pt-1/</loc>
+    <lastmod>2026-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dev.hegecoin.com/blog/announcing-shill-with-hege/</loc>
     <lastmod>2026-03-02T00:00:00+00:00</lastmod>
